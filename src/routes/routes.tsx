@@ -1,5 +1,5 @@
 import PublicLayout from '@/layouts/Public';
-import Page404 from '@/pages/page404';
+import Page404 from '@/pages/Page404s';
 import Login from '@/pages/Logins';
 
 const routes = [
