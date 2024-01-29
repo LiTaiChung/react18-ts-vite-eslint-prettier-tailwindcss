@@ -1,7 +1,6 @@
 import PublicLayout from '@/layouts/Public';
 import Page404 from '@/pages/page404';
-import Home from '@/pages/home';
-import Login from '@/pages/login';
+import Login from '@/pages/Logins';
 
 const routes = [
   {
@@ -14,7 +13,7 @@ const routes = [
       {
         path: '/',
         index: true,
-        element: <Home />,
+        element: <Login />,
       },
       {
         path: '/login',

@@ -1,5 +1,5 @@
-import React from 'react';
-
-export default function index() {
+const Private = () => {
   return <div>index</div>;
-}
+};
+
+export default Private;
