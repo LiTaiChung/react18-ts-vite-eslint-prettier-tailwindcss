@@ -1,6 +1,6 @@
 import PublicLayout from '@/layouts/Public';
-import Page404 from '@/pages/Page404s';
-import Login from '@/pages/Logins';
+import Page404 from '@/pages/Page404';
+import Login from '@/pages/Login';
 
 const routes = [
   {
